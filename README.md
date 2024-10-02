@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Maaz-Umar-00/Maaz-Umar-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Data Analyst with a passion for transforming data into actionable insights that drive business impact. 
 
-Here are some ideas to get you started:
+🔭 Currently, I am learning data analysis techniques and tools, including Python, SQL, Power BI, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Focused on enhancing my skills in data visualization and exploring the world of data analytics to support data-driven decision-making and improve business performance.
+
+⚡ In my free time, I enjoy working on personal projects and learning from online courses.
+
+## Skills
+- **Data Analysis:** Python, SQL
+- **Data Visualization:** Power BI, Tableau, Excel
+- **Tools & Technologies:** GitHub, Jupyter Notebooks
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/maaz-umar-) 
+- [Email](mailto:maazumar2005@gmail.com)
+
+## Badges
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maaz-umar-) 
