@@ -14,9 +14,6 @@ I am a Data Analyst with a passion for transforming data into actionable insight
 - **Data Visualization:** Power BI, Tableau, Excel
 - **Tools & Technologies:** GitHub, Jupyter Notebooks
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/maaz-umar-) 
-- [Email](mailto:maazumar2005@gmail.com)
-
-## Badges
+## Connect With Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maaz-umar-) 
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maazumar2005@gmail.com)
