@@ -17,3 +17,6 @@ I am a Data Analyst with a passion for transforming data into actionable insight
 ## Connect With Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maaz-umar-) 
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maazumar2005@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-0077B5?style=flat-square&logo=internet-explorer&logoColor=white)](https://maazumar2005.wixsite.com/portfolio)
+
+
