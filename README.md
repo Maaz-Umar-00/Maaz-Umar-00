@@ -1,50 +1,30 @@
-<h1 align="center">Hey, I'm Maaz Umar 👋</h1>
+<h1 align="center">👋 Hey, I’m Maaz Umar</h1>
 <p align="center">
-  🚀 AI Enthusiast | 🎓 CS Undergrad | 📊 Data Analyst | 🛠️ Automation Explorer
+  🎓 CS Student @ NSU | 🤖 AI & Automation Explorer | 📊 Data Analyst-in-the-making
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/maaz-umar-" target="_blank">🔗 LinkedIn</a> |
-  <a href="https://maazumar2005.wixsite.com/portfolio" target="_blank">🌐 Portfolio</a> |
-  <a href="https://github.com/Maaz-Umar-00" target="_blank">🐱 GitHub</a>
+  <a href="https://www.linkedin.com/in/maaz-umar-"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://maazumar2005.wixsite.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-website-green?logo=google-chrome" /></a>
+  <a href="https://github.com/Maaz-Umar-00"><img src="https://img.shields.io/badge/GitHub-Maaz--Umar--00-black?logo=github" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### ✨ About Me
 
-I'm a **CS undergrad at National Skills University Islamabad** who’s deeply passionate about Machine Learning, AI tools, and automation. I love building things that make life easier — from no-code experiments to full AI pipelines.
+I'm a curious builder who loves making AI tools work smarter — whether it’s building no-code flows, integrating LLMs, or cleaning up messy data with Python magic.
 
-- 🔍 Exploring the intersection of **AI + Automation**
-- ⚙️ Playing with tools like **Cursor, Bolt, Langchain, Supabase, n8n, Vercel**
-- 📊 Obsessed with data — cleaning, visualizing, and extracting insights
-- 🛠️ Learning in public — building projects, breaking things, fixing smarter
-
----
-
-### 🧠 What I’m Learning
-
-- Machine Learning & MLOps
-- LLMs & AI Agents (LangGraph, CrewAI, Flowise)
-- Data Storytelling (Power BI, Tableau)
-- Backend integrations using **Supabase**, **Make**, and **OpenAI APIs**
+- 🔁 I automate boring stuff with tools like **Make**, **n8n**, and **Supabase**
+- 🧠 I experiment with **Langchain**, **Flowise**, **CrewAI**, and AI agents
+- 📊 I play with **Pandas**, **Power BI**, and **SQL** to extract data stories
+- 🌱 I learn in public — exploring APIs, workflows, and growth strategies
 
 ---
 
-### 🧪 Featured Projects
-
-| 🚀 Project        | 🔧 Stack | 🔍 Description |
-|------------------|----------|----------------|
-| [**MaazGPT**](https://github.com/Maaz-Umar-00/MaazGPT) | OpenAI API, Supabase, Vercel | Your own AI assistant with secure backend + auth |
-| [**Quiz Master**](https://github.com/Maaz-Umar-00/Quiz-Master) | Bolt, Replit | Built in a frontend competition using no-code + AI |
-| [**DataWise**](https://github.com/Maaz-Umar-00/DataWise) | Pandas, Plotly, Streamlit | AI-powered data insights + visualizations |
-
----
-
-### 💡 Tools & Tech I Use
+### 💼 What I’m Currently Exploring
 
 ```text
-Languages    : Python, SQL, JavaScript, HTML/CSS
-Libraries    : pandas, NumPy, scikit-learn, Matplotlib, Streamlit
-Databases    : Supabase, Firebase, Airtable
-Platforms    : Vercel, Netlify, Replit, Make (Integromat)
-AI Tools     : OpenAI, Langchain, CrewAI, Flowise, Bolt, Cursor
+⚙️  AI Agents        → LangGraph, CrewAI, Vapi, Autogen
+🧪  MLOps           → Model lifecycle, deployment & prompt chaining
+🔗  No-Code + Dev   → Bolt, Cursor, Vercel, Firebase, Make (Integromat)
+🧰  Real-World Data → Preprocessing, Hypothesis Testing, Correlations
