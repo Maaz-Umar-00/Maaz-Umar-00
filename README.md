@@ -1,10 +1,9 @@
 <!-- 💫 Animated Welcome Intro -->
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58C6DC&center=true&vCenter=true&width=480&lines=Finally+You+Find+Me+...;But+since+you're+here+%F0%9F%91%80;Great+to+see+you+here!;Let's+keep+it+real+for+a+sec..." alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58C6DC&center=true&vCenter=true&width=480&lines=Finally+You+Found+Me+...;But+since+you're+here+%F0%9F%91%80;Great+to+see+you+here!;Let's+keep+it+real+for+a+sec..." alt="Typing SVG" />
 </p>
- 
-<!-- 👋 Main Intro -->
-<!-- 👋 Main Intro -->
+
+<!-- 👋 Main Intro (slower animation) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1800&duration=3000&color=58C6DC&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Maaz+Umar+%F0%9F%91%8B;Exploring+AI%2C+ML%2C+and+Automation;Always+learning.+Always+building." alt="Typing SVG" />
 </p>
@@ -23,3 +22,7 @@
 
 ---
 
+<!-- 🐍 GitHub Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maaz-Umar-00/Maaz-Umar-00/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
