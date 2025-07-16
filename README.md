@@ -4,8 +4,9 @@
 </p>
  
 <!-- 👋 Main Intro -->
+<!-- 👋 Main Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1300&color=58C6DC&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Maaz+Umar+%F0%9F%91%8B;Exploring+AI%2C+ML%2C+and+Automation;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1800&duration=3000&color=58C6DC&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Maaz+Umar+%F0%9F%91%8B;Exploring+AI%2C+ML%2C+and+Automation;Always+learning.+Always+building." alt="Typing SVG" />
 </p>
 
 ---
@@ -22,16 +23,3 @@
 
 ---
 
-<h2 align="center">🔧 Tech Stack</h2>
-
-<p align="center">
-  <b>Languages:</b> Python • SQL • JavaScript  
-  <br>
-  <b>Libraries:</b> Pandas • NumPy • Matplotlib • scikit-learn  
-  <br>
-  <b>Tools:</b> Streamlit • Power BI • Supabase • Airtable • Make.com  
-  <br>
-  <b>Other:</b> Git • GitHub • Replit • Vercel
-</p>
-
----
