@@ -35,26 +35,3 @@
 </p>
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaz-Umar-00&show_icons=true&theme=tokyonight&title_color=58C6DC&icon_color=58C6DC" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maaz-Umar-00&theme=tokyonight&ring=58C6DC&fire=58C6DC&currStreakLabel=58C6DC" width="47%" />
-</p>
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maaz-umar-" target="_blank">🔗 LinkedIn</a> • 
-  <a href="https://maazumar2005.wixsite.com/portfolio" target="_blank">🌐 Portfolio</a> • 
-  📫 maazumar2005@gmail.com
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=58C6DC&center=true&vCenter=true&width=435&lines=Thanks+for+scrolling+by+%F0%9F%92%96;Let's+build+something+awesome+together!" alt="Closing Typing SVG" />
-</p>
