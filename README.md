@@ -1,22 +1,50 @@
-# Hi there 👋
+<h1 align="center">Hey, I'm Maaz Umar 👋</h1>
+<p align="center">
+  🚀 AI Enthusiast | 🎓 CS Undergrad | 📊 Data Analyst | 🛠️ Automation Explorer
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/maaz-umar-" target="_blank">🔗 LinkedIn</a> |
+  <a href="https://maazumar2005.wixsite.com/portfolio" target="_blank">🌐 Portfolio</a> |
+  <a href="https://github.com/Maaz-Umar-00" target="_blank">🐱 GitHub</a>
+</p>
 
-## About Me
-I am a Data Analyst with a passion for transforming data into actionable insights that drive business impact. 
+---
 
-🔭 Currently, I am learning data analysis techniques and tools, including Python, SQL, Power BI, and Tableau.
+### 🚀 About Me
 
-🌱 Focused on enhancing my skills in data visualization and exploring the world of data analytics to support data-driven decision-making and improve business performance.
+I'm a **CS undergrad at National Skills University Islamabad** who’s deeply passionate about Machine Learning, AI tools, and automation. I love building things that make life easier — from no-code experiments to full AI pipelines.
 
-⚡ In my free time, I enjoy working on personal projects and learning from online courses.
+- 🔍 Exploring the intersection of **AI + Automation**
+- ⚙️ Playing with tools like **Cursor, Bolt, Langchain, Supabase, n8n, Vercel**
+- 📊 Obsessed with data — cleaning, visualizing, and extracting insights
+- 🛠️ Learning in public — building projects, breaking things, fixing smarter
 
-## Skills
-- **Data Analysis:** Python, SQL
-- **Data Visualization:** Power BI, Tableau, Excel
-- **Tools & Technologies:** GitHub, Jupyter Notebooks
+---
 
-## Connect With Me
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maaz-umar-) 
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maazumar2005@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-0077B5?style=flat-square&logo=internet-explorer&logoColor=white)](https://maazumar2005.wixsite.com/portfolio)
+### 🧠 What I’m Learning
 
+- Machine Learning & MLOps
+- LLMs & AI Agents (LangGraph, CrewAI, Flowise)
+- Data Storytelling (Power BI, Tableau)
+- Backend integrations using **Supabase**, **Make**, and **OpenAI APIs**
 
+---
+
+### 🧪 Featured Projects
+
+| 🚀 Project        | 🔧 Stack | 🔍 Description |
+|------------------|----------|----------------|
+| [**MaazGPT**](https://github.com/Maaz-Umar-00/MaazGPT) | OpenAI API, Supabase, Vercel | Your own AI assistant with secure backend + auth |
+| [**Quiz Master**](https://github.com/Maaz-Umar-00/Quiz-Master) | Bolt, Replit | Built in a frontend competition using no-code + AI |
+| [**DataWise**](https://github.com/Maaz-Umar-00/DataWise) | Pandas, Plotly, Streamlit | AI-powered data insights + visualizations |
+
+---
+
+### 💡 Tools & Tech I Use
+
+```text
+Languages    : Python, SQL, JavaScript, HTML/CSS
+Libraries    : pandas, NumPy, scikit-learn, Matplotlib, Streamlit
+Databases    : Supabase, Firebase, Airtable
+Platforms    : Vercel, Netlify, Replit, Make (Integromat)
+AI Tools     : OpenAI, Langchain, CrewAI, Flowise, Bolt, Cursor
