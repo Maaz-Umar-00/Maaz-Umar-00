@@ -12,7 +12,5 @@
   <li>I'm not here to look smart — I'm here to ship useful stuff, fast.</li>
   <li>Data, AI, and no-code tools are just my weapon of choice.</li>
   <li>📍 Based in Islamabad, Pakistan</li>
-  <li>🔗 <a href="https://www.linkedin.com/in/maaz-umar-" style="color:#58C6DC;">LinkedIn</a></li>
-  <li>🌐 <a href="https://maazumar2005.wixsite.com/portfolio" style="color:#58C6DC;">Portfolio Website</a></li>
 </ul>
 
