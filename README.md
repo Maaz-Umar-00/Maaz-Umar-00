@@ -5,17 +5,14 @@
 </p>
 
 ---
-<h1 style="color:#58C6DC;">✨ About Me</h1>
+<h1 align="center">✨ About Me</h1>
 
-<p>
-  <span style="color:#58C6DC;">
-    Most people chase job titles. I chase systems that work.  
-    <br>
-    I'm not here to look smart — I'm here to ship useful stuff, fast.  
-    <br>
-    Data, AI, and no-code tools are just my weapon of choice.
-  </span>
+<p align="center">
+  Most people chase job titles. I chase systems that work.  
+  <br>
+  I'm not here to look smart — I'm here to ship useful stuff, fast.  
+  <br>
+  Data, AI, and no-code tools are just my weapon of choice.
 </p>
-
 
 
