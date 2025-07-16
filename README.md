@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Maaz Umar 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58C6DC&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Maaz+Umar+%F0%9F%91%8B;Great+to+see+you+here!;Exploring+AI%2C+Data+Science%2C+and+ML+tools" alt="Typing animation" />
+</p>
 
 <p align="center">
   CS Student @ NSU Islamabad • Exploring Data Science, Machine Learning, and AI tools  
