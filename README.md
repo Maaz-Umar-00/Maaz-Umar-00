@@ -1,6 +1,6 @@
 <!-- 💫 Animated Welcome Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58C6DC&center=true&vCenter=true&width=480&lines=You+weren't+supposed+to+find+this...;But+since+you're+here+%F0%9F%91%80;Great+to+see+you+here!;Let's+keep+it+real+for+a+sec..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58C6DC&center=true&vCenter=true&width=480&lines=Finally+You+Find+Me+...;But+since+you're+here+%F0%9F%91%80;Great+to+see+you+here!;Let's+keep+it+real+for+a+sec..." alt="Typing SVG" />
 </p>
 
 <!-- 👋 Main Intro -->
