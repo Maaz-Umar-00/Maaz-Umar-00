@@ -8,7 +8,13 @@
 <h1 style="color:#58C6DC;">✨ About Me</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3500&pause=1800&color=58C6DC&center=false&vCenter=true&width=600&lines=Most+people+chase+job+titles.+I+chase+systems+that+work.;I'm+not+here+to+look+smart+—+I'm+here+to+ship+useful+stuff%2C+fast.;Data%2C+AI%2C+and+no-code+tools+are+just+my+weapon+of+choice." alt="About Me Typing SVG" />
+  <span style="color:#58C6DC;">
+    Most people chase job titles. I chase systems that work.  
+    <br>
+    I'm not here to look smart — I'm here to ship useful stuff, fast.  
+    <br>
+    Data, AI, and no-code tools are just my weapon of choice.
+  </span>
 </p>
 
 
