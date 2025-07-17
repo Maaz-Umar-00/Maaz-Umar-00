@@ -7,9 +7,8 @@
 ---
 <h1 style="color:#58C6DC;">✨ About Me</h1>
 <ul style="color:#58C6DC;">
-  <li>Most people chase job titles — I chase systems that work.</li>
-  <li>I'm not here to look smart — I'm here to ship useful stuff, fast.</li>
+  <li>Most people chase job titles, I chase systems that work.</li>
+  <li>I'm not here to look smart, I'm here to ship useful stuff, fast.</li>
   <li>Data, AI, and no-code tools are just my weapon of choice.</li>
-  <li>📍 Based in Islamabad, Pakistan</li>
 </ul>
 
